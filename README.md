@@ -4,9 +4,9 @@ Todolist summary:
 
 1.add new task option by pressing enter key.
 
-2.remove task option.
+2.remove task.
 
-3.check of done task option.
+3.check tasks that are done.
 
 4.filter options.
 
@@ -14,4 +14,4 @@ Todolist summary:
 
 6.using redux.
 
-7.using redux-localstorage-simple midlleware for temporary saving on browser.
+7.using redux-localstorage-simple midlleware for temporary saving data on browser.
