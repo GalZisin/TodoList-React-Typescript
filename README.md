@@ -1,6 +1,6 @@
 # TodoList-React-Typescript
 
-Todolist summery:
+Todolist summary:
 
 1.add new task option by pressing enter key.
 
