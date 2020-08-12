@@ -10,6 +10,8 @@ Todolist summary:
 
 4.filter options.
 
-5.using redux.
+5.using typeScript.
 
-6.using redux-localstorage-simple for temporary saving on browser.
+6.using redux.
+
+7.using redux-localstorage-simple midlleware for temporary saving on browser.
